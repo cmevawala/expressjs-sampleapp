@@ -1,0 +1,31 @@
+{
+  "name": "expressjs-sampleapp",
+  "version": "1.0.0",
+  "description": "The main aim of developing this application is to explore the features of Express js.\r Installation & Setup\r Middlewares\r Routing\r Template Engines EJS, HandleBars, Jade\r Forms & Input\r Models, ORM & Databases\r Express Generator",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "express-validator": "^3.2.0",
+    "mongojs": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmevawala/expressjs-sampleapp.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js"
+  ],
+  "author": "Chitrang Mevawala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmevawala/expressjs-sampleapp/issues"
+  },
+  "homepage": "https://github.com/cmevawala/expressjs-sampleapp#readme"
+}
